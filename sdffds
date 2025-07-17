@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>discord.gg/3jm</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: url(https://k.top4top.io/p_3484c0oz41.png) no-repeat center center fixed;
+            background-size: 
+            font-family: 'Courier New', Courier, 
+            color: #0000ff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            text-align: center;
+        }
+        .image-container img {
+            width: 750px; 
+            height: auto;
+            border: 2px solid #0000ff
+            border-radius: 
+            box-shadow: 0 0 15px rgba(0, 0, 255, 0.7); 
+        }
+        .info {
+            margin-top: 20px;
+            font-size: 1.5em;
+            color: #0000ff; 
+            text-shadow: 0px 0px 8px #0000ff, 0px 0px 15px #0000ff, 0px 0px 25px #0000ff; 
+            letter-spacing: 
+            white-space: pre-wrap;
+        }
+        .text {
+            margin-top: 20px;
+            font-size: 3em; 
+            color: #0000ff; 
+            text-shadow: 
+            letter-spacing: 4.5px; 
+        }
+    </style>
+</>
+<>
+    <div class="image-container">
+        <img src= ="Discord Image">
+    </div>
+    <audio autoplay loop>
+        <source srhttps://youtu.be/SZqtagl8Foo type="audio/mpeg">
+    </audio>
+    <div ="" id="ip
+        <>IP: < id="ip"></span></strong><br>
+    </div>
+    <div class="text">discord.gg/3jm</div>
+
+    <script>
+         fetch('https://ipinfo.io/json')
+        .then(response => response.json())
+        .then(data => {
+            delete data.readme;
+            const infoDiv = document.getElementById('ip-info');
+            infoDiv.textContent = JSON.stringify(data, null, 2);
+        });
+    </script>
+</body>
+</html>
+
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
